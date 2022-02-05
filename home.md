@@ -1,8 +1,8 @@
 ---
-title: wiki.aoirint.com
+title: ホーム
 description: 
 published: true
-date: 2022-02-05T22:18:31.445Z
+date: 2022-02-05T22:20:15.060Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-05T21:58:01.939Z
