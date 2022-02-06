@@ -2,7 +2,7 @@
 title: サーバー
 description: 
 published: true
-date: 2022-02-06T02:01:58.579Z
+date: 2022-02-06T02:02:25.591Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T01:16:16.412Z
@@ -19,12 +19,13 @@ dateCreated: 2022-02-06T01:16:16.412Z
 - 種類：自宅サーバ（デスクトップ筐体）
 - アーキテクチャ：Intel x64
 - OS：Ubuntu 20.04
-- 用途：NAS、Webサーバ、ゲームサーバ、クローラ
+- 用途：NAS、Webサーバ、ゲームサーバ、DNS、クローラ
     - Nextcloud
     - Joplin Server
     - SmokePing
     - Minecraft Bedrock
     - Terraria
+    - bind9
     - ほか
 - 状況：運用中（2022-02-06）
 
