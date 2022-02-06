@@ -2,7 +2,7 @@
 title: サーバー
 description: 
 published: true
-date: 2022-02-06T01:56:16.087Z
+date: 2022-02-06T01:56:54.525Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T01:16:16.412Z
@@ -24,6 +24,7 @@ dateCreated: 2022-02-06T01:16:16.412Z
     - Joplin Server
     - SmokePing
     - Minecraft Bedrock
+    - Terraria
     - ほか
 - 状況：運用中（2022-02-06）
 
