@@ -2,7 +2,7 @@
 title: ホーム
 description: 
 published: true
-date: 2022-02-06T01:36:41.763Z
+date: 2022-02-06T02:09:19.340Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-05T21:58:01.939Z
@@ -18,5 +18,5 @@ dateCreated: 2022-02-05T21:58:01.939Z
 
 ## トピック
 
-- [ソフトウェア](/ja/software)
+- [技術ノート](/ja/technote)
 - [パーソナル](/ja/personal)
