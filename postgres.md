@@ -2,7 +2,7 @@
 title: PostgreSQL
 description: 
 published: true
-date: 2022-02-06T00:38:03.387Z
+date: 2022-02-06T00:38:52.444Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T00:36:47.292Z
@@ -14,7 +14,7 @@ dateCreated: 2022-02-06T00:36:47.292Z
 psql --user myuser postgres
 ```
 
-```postgres
+```sql
 ALTER ROLE myuser WITH PASSWORD 'new_password';
 ```
 
@@ -28,7 +28,7 @@ ALTER ROLE myuser WITH PASSWORD 'new_password';
 psql --user myuser postgres
 ```
 
-```postgres
+```sql
 ALTER DATABASE mydatabase RENAME TO new_mydatabase;
 ```
 
