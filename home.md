@@ -2,12 +2,13 @@
 title: ホーム
 description: 
 published: true
-date: 2022-02-06T00:40:13.391Z
+date: 2022-02-06T00:40:48.021Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-05T21:58:01.939Z
 ---
 
+このWebサイトは、[aoirint](https://github.com/aoirint)の技術ノートです。
 
 このWebサイトのコンテンツは、以下のリポジトリと同期しています。
 
