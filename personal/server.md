@@ -2,7 +2,7 @@
 title: サーバー
 description: 
 published: true
-date: 2022-02-06T01:21:48.460Z
+date: 2022-02-06T01:22:09.943Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T01:16:16.412Z
@@ -33,4 +33,4 @@ dateCreated: 2022-02-06T01:16:16.412Z
 - ハードウェア：Raspberry Pi 4B armv7l
 - OS：Raspberry Pi OS
 - 用途：音声サーバ（PulseAudio）、音楽サーバ（MPD）、arm Linux環境テスト
-- 状況：運用中（2022-02-06）、音声・音楽サーバの稼働率減により運用停止予定
+- 状況：運用中（2022-02-06）、無線ヘッドセット導入に伴う音声・音楽サーバの稼働率減により運用停止予定
