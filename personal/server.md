@@ -2,20 +2,20 @@
 title: サーバー
 description: 
 published: true
-date: 2022-02-06T01:56:54.525Z
+date: 2022-02-06T01:58:00.042Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T01:16:16.412Z
 ---
 
-## Leir, レイア
+## Leir
 - 種類：VPS
 - サービス：さくらインターネット さくらのVPS
 - アーキテクチャ：Intel x64
 - OS：Ubuntu 20.04
 - 状況：運用中（2022-02-06）
 
-## Mate, メイト
+## Mate
 - 種類：自宅サーバ（デスクトップ筐体）
 - アーキテクチャ：Intel x64
 - OS：Ubuntu 20.04
@@ -28,14 +28,14 @@ dateCreated: 2022-02-06T01:16:16.412Z
     - ほか
 - 状況：運用中（2022-02-06）
 
-## Yukari, ユカリ
+## Yukari
 - 種類：自宅サーバ（NUC）
 - アーキテクチャ：Intel x64
 - OS：Windows 10 Pro
 - 用途：音声合成ソフト、Windows環境テスト
 - 状況：メイン機でのWindows稼働率増に伴い運用停止中（2022-02-06）
 
-## Athena, アテナ
+## Athena
 - 種類：自宅サーバ（Raspberry Pi 4B）
 - アーキテクチャ：armv8
 - OS：Raspberry Pi OS（32bit動作）
