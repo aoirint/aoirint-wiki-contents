@@ -2,7 +2,7 @@
 title: ホーム
 description: 
 published: true
-date: 2022-02-06T00:48:06.149Z
+date: 2022-02-06T01:03:38.380Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-05T21:58:01.939Z
@@ -16,6 +16,6 @@ dateCreated: 2022-02-05T21:58:01.939Z
 
 サイトの作り方は、[wiki.yude.jp](https://wiki.yude.jp/)を参考にしています。
 
-## ソフトウェア
+## トピック
 
-- [PostgreSQL](/ja/postgres)
+- [ソフトウェア](/ja/software)
