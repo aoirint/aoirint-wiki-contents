@@ -2,7 +2,7 @@
 title: サーバー
 description: 
 published: true
-date: 2022-02-06T01:23:15.815Z
+date: 2022-02-06T01:24:15.166Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T01:16:16.412Z
@@ -27,7 +27,7 @@ dateCreated: 2022-02-06T01:16:16.412Z
 - ハードウェア：Intel x64
 - OS：Windows 10 Pro
 - 用途：音声合成ソフト、Windows環境テスト
-- 状況：運用停止中（2022-02-06）
+- 状況：メイン機でのWindows稼働率増に伴い運用停止中（2022-02-06）
 
 ## Athena, アテナ
 - 種類：自宅サーバ
