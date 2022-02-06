@@ -2,7 +2,7 @@
 title: サーバー
 description: 
 published: true
-date: 2022-02-06T01:17:59.404Z
+date: 2022-02-06T01:18:34.624Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T01:16:16.412Z
@@ -29,6 +29,6 @@ dateCreated: 2022-02-06T01:16:16.412Z
 - 種類：自宅サーバ
 - ハードウェア：Raspberry Pi 4B
 - OS：Raspberry Pi OS
-- 用途：音楽サーバ
+- 用途：音楽サーバ、arm Linux環境テスト
 - 状況：運用中（2022-02-06）、音楽サーバの稼働率減により運用停止予定
 
