@@ -2,7 +2,7 @@
 title: サーバー
 description: 
 published: true
-date: 2022-02-06T01:58:00.042Z
+date: 2022-02-06T02:01:58.579Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T01:16:16.412Z
@@ -19,7 +19,7 @@ dateCreated: 2022-02-06T01:16:16.412Z
 - 種類：自宅サーバ（デスクトップ筐体）
 - アーキテクチャ：Intel x64
 - OS：Ubuntu 20.04
-- 用途：NAS、Webサーバ、クローラ、ゲームサーバ
+- 用途：NAS、Webサーバ、ゲームサーバ、クローラ
     - Nextcloud
     - Joplin Server
     - SmokePing
