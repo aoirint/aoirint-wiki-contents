@@ -2,7 +2,7 @@
 title: サーバー
 description: 
 published: true
-date: 2022-02-06T01:19:38.571Z
+date: 2022-02-06T01:21:03.767Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T01:16:16.412Z
@@ -11,7 +11,7 @@ dateCreated: 2022-02-06T01:16:16.412Z
 ## Leir, レイア
 - 種類：VPS
 - サービス：さくらインターネット さくらのVPS
-- ハードウェア：x64
+- ハードウェア：Intel x64
 - OS：Ubuntu 20.04
 - 状況：運用中（2022-02-06）
 
