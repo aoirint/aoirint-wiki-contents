@@ -2,7 +2,7 @@
 title: サーバー
 description: 
 published: true
-date: 2022-02-06T01:16:16.412Z
+date: 2022-02-06T01:17:59.404Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T01:16:16.412Z
@@ -17,6 +17,7 @@ dateCreated: 2022-02-06T01:16:16.412Z
 ## Mate, メイト
 - 種類：自宅サーバ
 - OS：Ubuntu 20.04
+- 用途：NAS、Webサーバ、ゲームサーバ
 - 状況：運用中（2022-02-06）
 
 ## Yukari, ユカリ
@@ -28,4 +29,6 @@ dateCreated: 2022-02-06T01:16:16.412Z
 - 種類：自宅サーバ
 - ハードウェア：Raspberry Pi 4B
 - OS：Raspberry Pi OS
-- 状況：運用中（2022-02-06）
+- 用途：音楽サーバ
+- 状況：運用中（2022-02-06）、音楽サーバの稼働率減により運用停止予定
+
