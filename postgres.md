@@ -2,7 +2,7 @@
 title: PostgreSQL
 description: 
 published: true
-date: 2022-02-06T00:36:47.292Z
+date: 2022-02-06T00:37:51.115Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T00:36:47.292Z
@@ -11,7 +11,7 @@ dateCreated: 2022-02-06T00:36:47.292Z
 # ユーザ（ロール）のパスワード変更（PostgreSQL 13）
 
 ```shell
-psql -u USER postgres
+psql -u myuser postgres
 ```
 
 ```postgres
@@ -25,7 +25,7 @@ ALTER ROLE myuser WITH PASSWORD 'new_password';
 # データベースの名前変更（PostgreSQL 13）
 
 ```shell
-psql -u USER postgres
+psql -u myuser postgres
 ```
 
 ```postgres
