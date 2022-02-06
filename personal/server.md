@@ -2,7 +2,7 @@
 title: サーバー
 description: 
 published: true
-date: 2022-02-06T01:30:44.485Z
+date: 2022-02-06T01:56:16.087Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T01:16:16.412Z
@@ -20,6 +20,11 @@ dateCreated: 2022-02-06T01:16:16.412Z
 - アーキテクチャ：Intel x64
 - OS：Ubuntu 20.04
 - 用途：NAS、Webサーバ、クローラ、ゲームサーバ
+    - Nextcloud
+    - Joplin Server
+    - SmokePing
+    - Minecraft Bedrock
+    - ほか
 - 状況：運用中（2022-02-06）
 
 ## Yukari, ユカリ
