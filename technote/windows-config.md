@@ -2,7 +2,7 @@
 title: Windowsの設定
 description: 
 published: true
-date: 2022-02-07T06:30:47.198Z
+date: 2022-02-07T06:30:57.062Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-07T03:12:18.451Z
@@ -35,7 +35,7 @@ mklink /D C:\etc C:\Windows\System32\drivers\etc
 
 - <https://qiita.com/nezuq/items/d9707f3e959bf293543e>
 
-結局昇格が必要なので、管理者PowerShellから以下をコピペする方が楽かもしれない。
+結局昇格が必要なので、管理者PowerShellに以下を貼り付ける方が楽かもしれない。
 
 ```powershell
 notepad C:\WINDOWS\system32\drivers\etc\hosts
