@@ -2,7 +2,7 @@
 title: Windowsの設定
 description: 
 published: true
-date: 2022-02-07T06:30:57.062Z
+date: 2022-02-07T06:31:57.132Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-07T03:12:18.451Z
@@ -25,15 +25,18 @@ dateCreated: 2022-02-07T03:12:18.451Z
 - <https://laboradian.com/show-day-of-week-on-taskbar-win10/>
 - <https://atmarkit.itmedia.co.jp/ait/articles/1404/25/news058.html>
 
-## hostsファイルを参照しやすくする
+## シンボリックリンク作成
 
-管理者cmdでCドライブ直下からのシンボリックリンクを作成する。
+管理者cmdで実行する。
 
 ```cmd
-mklink /D C:\etc C:\Windows\System32\drivers\etc
+mklink /D C:\target C:\source
 ```
 
 - <https://qiita.com/nezuq/items/d9707f3e959bf293543e>
+
+
+## hostsファイルを参照しやすくする
 
 結局昇格が必要なので、管理者PowerShellに以下を貼り付ける方が楽かもしれない。
 
