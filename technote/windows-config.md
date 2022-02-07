@@ -2,7 +2,7 @@
 title: Windowsの設定
 description: 
 published: true
-date: 2022-02-07T06:32:21.498Z
+date: 2022-02-07T06:32:33.517Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-07T03:12:18.451Z
@@ -42,7 +42,7 @@ mklink /D C:\link C:\original
 
 ## hostsファイルを参照しやすくする
 
-結局昇格が必要なので、管理者PowerShellに以下を貼り付ける方が楽かもしれない。
+管理者PowerShellに以下を貼り付ける。
 
 ```powershell
 notepad C:\WINDOWS\system32\drivers\etc\hosts
