@@ -2,7 +2,7 @@
 title: Windowsの設定
 description: 
 published: true
-date: 2022-02-07T06:31:57.132Z
+date: 2022-02-07T06:32:06.344Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-07T03:12:18.451Z
@@ -30,7 +30,7 @@ dateCreated: 2022-02-07T03:12:18.451Z
 管理者cmdで実行する。
 
 ```cmd
-mklink /D C:\target C:\source
+mklink /D C:\link C:\original
 ```
 
 - <https://qiita.com/nezuq/items/d9707f3e959bf293543e>
