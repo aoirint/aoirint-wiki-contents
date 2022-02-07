@@ -2,7 +2,7 @@
 title: Windowsの設定
 description: 
 published: true
-date: 2022-02-07T06:25:51.294Z
+date: 2022-02-07T06:25:58.150Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-07T03:12:18.451Z
@@ -30,3 +30,5 @@ dateCreated: 2022-02-07T03:12:18.451Z
 ```cmd
 mklink /D C:\etc C:\Windows\System32\drivers\etc
 ```
+
+- <https://qiita.com/nezuq/items/d9707f3e959bf293543e>
