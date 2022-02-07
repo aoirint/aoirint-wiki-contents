@@ -2,7 +2,7 @@
 title: Windowsの設定
 description: 
 published: true
-date: 2022-02-07T06:26:11.116Z
+date: 2022-02-07T06:26:24.058Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-07T03:12:18.451Z
@@ -26,6 +26,8 @@ dateCreated: 2022-02-07T03:12:18.451Z
 - <https://atmarkit.itmedia.co.jp/ait/articles/1404/25/news058.html>
 
 ## hostsファイルを参照しやすくする
+
+Cドライブ直下にシンボリックリンクを作成する。
 
 ```cmd
 mklink /D C:\etc C:\Windows\System32\drivers\etc
