@@ -2,7 +2,7 @@
 title: Windowsの設定
 description: 
 published: true
-date: 2022-02-07T03:25:31.248Z
+date: 2022-02-07T03:26:23.929Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-07T03:12:18.451Z
@@ -17,3 +17,4 @@ dateCreated: 2022-02-07T03:12:18.451Z
 データ形式、短い形式、の欄に`yyyy/MM/dd ddd`を入力して適用する。
 
 - <https://laboradian.com/show-day-of-week-on-taskbar-win10/>
+- <https://atmarkit.itmedia.co.jp/fwin2k/win2ktips/151quick_cpl/quick_cpl.html>
