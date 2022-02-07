@@ -2,7 +2,7 @@
 title: Windowsの設定
 description: 
 published: true
-date: 2022-02-07T06:32:44.841Z
+date: 2022-02-07T06:33:01.742Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-07T03:12:18.451Z
@@ -36,9 +36,6 @@ mklink C:\link C:\original
 ; ディレクトリ
 mklink /D C:\link C:\original
 ```
-
-- <https://qiita.com/nezuq/items/d9707f3e959bf293543e>
-
 
 ## hostsファイル編集
 
