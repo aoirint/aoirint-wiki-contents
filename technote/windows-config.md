@@ -2,7 +2,7 @@
 title: Windowsの設定
 description: 
 published: true
-date: 2022-02-07T06:32:06.344Z
+date: 2022-02-07T06:32:21.498Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-07T03:12:18.451Z
@@ -30,6 +30,10 @@ dateCreated: 2022-02-07T03:12:18.451Z
 管理者cmdで実行する。
 
 ```cmd
+; ファイル
+mklink C:\link C:\original
+
+; ディレクトリ
 mklink /D C:\link C:\original
 ```
 
