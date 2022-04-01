@@ -2,7 +2,7 @@
 title: デプロイサービス
 description: 
 published: true
-date: 2022-04-01T06:32:58.729Z
+date: 2022-04-01T06:33:08.002Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T06:29:03.191Z
@@ -41,6 +41,8 @@ dateCreated: 2022-04-01T06:29:03.191Z
 - [リポジトリ](https://github.com/aoirint/mate-cadila)
 - [データ](https://github.com/aoirint/mate-cadila-data)
 
+## Wiki.js
+
 ## Harmonica
 
 ## Terraria Server
@@ -48,5 +50,3 @@ dateCreated: 2022-04-01T06:29:03.191Z
 ## Minecraft Bedrock Server
 
 ## Minecraft Server（停止中）
-
-## Wiki.js
