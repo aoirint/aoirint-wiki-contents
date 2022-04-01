@@ -2,7 +2,7 @@
 title: デプロイサービス
 description: 
 published: true
-date: 2022-04-01T06:31:25.033Z
+date: 2022-04-01T06:31:37.310Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-01T06:29:03.191Z
@@ -37,6 +37,6 @@ dateCreated: 2022-04-01T06:29:03.191Z
 ## Wallabag（停止中）
 - [リポジトリ](https://github.com/aoirint/mate-wallabag)
 
-## Dokuwiki
+## Cadila (Dokuwiki)
 - [リポジトリ](https://github.com/aoirint/mate-cadila)
 - [データ](https://github.com/aoirint/mate-cadila-data)
