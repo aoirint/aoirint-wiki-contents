@@ -2,7 +2,7 @@
 title: ふにんがす×ニコニコ 第1回 2022-07-23（土）
 description: 
 published: true
-date: 2022-12-06T09:03:52.803Z
+date: 2022-12-06T09:04:06.635Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T09:02:02.362Z
@@ -39,8 +39,6 @@ dateCreated: 2022-12-06T09:02:02.362Z
 |mini|user/|あり|
 
 # スケジュール
-
-（敬称略）
 
 ## ゲーム交流 1周目 12:30 -
 - エアライド: 如月ラギ、Nano、土奴、ベホイミ
