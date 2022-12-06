@@ -2,7 +2,7 @@
 title: ふにんがす×ニコニコ 第2回 2022-12-03（土）
 description: 
 published: true
-date: 2022-12-06T10:44:16.139Z
+date: 2022-12-06T10:57:33.960Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T09:08:29.047Z
@@ -48,7 +48,7 @@ dateCreated: 2022-12-06T09:08:29.047Z
 
 ## スケジュール
 
-### 放送: 17:00 - 21:00
+### 放送: 17:00 - 21:30
 
 #### Among Us VR
 
