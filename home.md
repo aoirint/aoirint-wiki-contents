@@ -2,7 +2,7 @@
 title: ホーム
 description: 
 published: true
-date: 2022-09-28T17:03:50.378Z
+date: 2022-12-06T11:02:39.807Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-05T21:58:01.939Z
@@ -18,3 +18,4 @@ dateCreated: 2022-02-05T21:58:01.939Z
 
 - [技術ノート](/ja/technote)
 - [パーソナル](/ja/personal)
+- [その他](/ja/others)
