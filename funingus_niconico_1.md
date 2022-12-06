@@ -2,7 +2,7 @@
 title: ふにんがす×ニコニコ 第1回 2022-07-23（土）
 description: 
 published: true
-date: 2022-12-06T09:10:05.443Z
+date: 2022-12-06T09:10:14.257Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T09:02:02.362Z
@@ -161,4 +161,4 @@ dateCreated: 2022-12-06T09:02:02.362Z
 
 ## 関連リンク
 
-- [https://wiki.aoirint.com/funingus_niconico_2](/funingus_niconico_2)
+- [ふにんがす×ニコニコ 第2回 2022-12-03（土）](/funingus_niconico_2)
