@@ -2,7 +2,7 @@
 title: ふにんがす×ニコニコ 第1回 2022-07-23（土）
 description: 
 published: true
-date: 2022-12-06T09:04:53.624Z
+date: 2022-12-06T09:10:05.443Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T09:02:02.362Z
@@ -157,3 +157,8 @@ dateCreated: 2022-12-06T09:02:02.362Z
 |投稿者|URL|
 |:--|:--|
 |ベホイミ|https://www.nicovideo.jp/watch/sm40927115|
+
+
+## 関連リンク
+
+- [https://wiki.aoirint.com/funingus_niconico_2](/funingus_niconico_2)
