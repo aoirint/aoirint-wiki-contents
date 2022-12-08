@@ -2,7 +2,7 @@
 title: aoirint.com メールサーバについて
 description: 
 published: true
-date: 2022-12-08T22:09:31.509Z
+date: 2022-12-08T22:10:44.767Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T21:35:02.630Z
@@ -20,9 +20,9 @@ aoirint.comアドレス宛てにメールが送信できない、受信できな
 
 ## セキュリティ対策
 
-本サーバとMUA間の通信は、STARTTLS/暗黙的TLSにより暗号化されます（必須）。
+本サーバとMUA（aoirintが使用する電子メールクライアント）間の通信は、STARTTLS/暗黙的TLSにより暗号化されます（必須）。
 
-本サーバとMTA間の通信は、STARTTLS/暗黙的TLSにより暗号化されます（必須）。
+本サーバとMTA（電子メールを中継するサーバ）間の通信は、STARTTLS/暗黙的TLSにより暗号化されます（必須）。
 
 2022年12月現在、STARTTLS/暗黙的TLSのいずれにも対応しないMTAとの通信はしない方針です。
 
