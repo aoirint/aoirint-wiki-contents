@@ -2,7 +2,7 @@
 title: aoirint.com メールサーバについて
 description: 
 published: true
-date: 2022-12-08T21:48:55.482Z
+date: 2022-12-08T21:49:42.468Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T21:35:02.630Z
@@ -20,9 +20,11 @@ aoirint.comアドレス宛てにメールが送信できない、受信できな
 
 ## 設定
 
-### 外部からのメールを内部に転送するSMTPサーバ mx01.aoirint.com
+### DNS
 
-DNSでは、MXレコード、SPFレコードを`mx01.aoirint.com`またはそのIPアドレスを、`aoirint.com`に対する正規の宛先として設定しています。
+DNSでは、MXレコード、SPFレコードを設定しています。
+
+### 外部からのメールを内部に転送するSMTPサーバ mx01.aoirint.com
 
 #### SMTP
 
