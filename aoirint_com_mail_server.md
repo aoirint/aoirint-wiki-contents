@@ -2,7 +2,7 @@
 title: aoirint.com メールサーバについて
 description: 
 published: true
-date: 2022-12-08T21:50:04.573Z
+date: 2022-12-08T21:56:42.628Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T21:35:02.630Z
@@ -18,7 +18,7 @@ aoirint.comアドレス宛てにメールが送信できない、受信できな
 
 - 2022-12-09 運用開始
 
-## 設定
+## 構成
 
 ### DNS
 
