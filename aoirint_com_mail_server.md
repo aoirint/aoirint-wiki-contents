@@ -2,7 +2,7 @@
 title: aoirint.com メールサーバについて
 description: 
 published: true
-date: 2022-12-08T21:42:38.099Z
+date: 2022-12-08T21:46:15.610Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T21:35:02.630Z
@@ -12,7 +12,7 @@ dateCreated: 2022-12-08T21:35:02.630Z
 
 2022-12-09より、aoirint.comにて、メールサーバの運用を始めました。
 
-aoirint.comアドレス宛てにメールが送信できない、受信できない、スパムメールなどがあれば、TwitterやMastodonなどにご連絡ください。
+aoirint.comアドレス宛てにメールが送信できない、受信できない、不正中継されている、セキュリティ上の問題などがあれば、TwitterやMastodonなどにご連絡ください。
 
 ## 設定
 
@@ -26,6 +26,7 @@ aoirint.comアドレス宛てにメールが送信できない、受信できな
 |認証|なし|
 |ホスト名（TLS証明書のコモンネーム）|mx01.aoirint.com|
 |ポート番号|25|
+|外部へのメール送信|禁止|
 
 #### SMTPS
 
@@ -35,9 +36,12 @@ aoirint.comアドレス宛てにメールが送信できない、受信できな
 |認証|なし|
 |ホスト名（TLS証明書のコモンネーム）|mx01.aoirint.com|
 |ポート番号|465|
+|外部へのメール送信|禁止|
 
 
 ### 外部にメールを送信するSMTPサーバ smtp.aoirint.com
+
+#### Submission
 
 |||
 |:--|:--|
@@ -45,9 +49,28 @@ aoirint.comアドレス宛てにメールが送信できない、受信できな
 |認証|平文パスワード|
 |ホスト名（TLS証明書のコモンネーム）|smtp.aoirint.com|
 |ポート番号|587|
+|外部へのメール送信|可（認証必須）|
+
 
 ### IMAPサーバ imap.aoirint.com
 
+##### IMAPS
 
-### POP3サーバ pop3.aoirint.com
+|||
+|:--|:--|
+|暗号化|暗黙的TLS|
+|認証|平文パスワード|
+|ホスト名（TLS証明書のコモンネーム）|imap.aoirint.com|
+|ポート番号|993|
+
+### POP3サーバ pop.aoirint.com
+
+#### POP3S
+
+|||
+|:--|:--|
+|暗号化|暗黙的TLS|
+|認証|平文パスワード|
+|ホスト名（TLS証明書のコモンネーム）|pop.aoirint.com|
+|ポート番号|995|
 
