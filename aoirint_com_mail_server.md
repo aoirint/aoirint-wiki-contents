@@ -2,7 +2,7 @@
 title: aoirint.com メールサーバについて
 description: 
 published: true
-date: 2022-12-08T21:49:42.468Z
+date: 2022-12-08T21:50:04.573Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T21:35:02.630Z
@@ -57,7 +57,7 @@ DNSでは、MXレコード、SPFレコードを設定しています。
 |認証|平文パスワード|
 |ホスト名（TLS証明書のコモンネーム）|smtp.aoirint.com|
 |ポート番号|587|
-|外部へのメール送信|可（認証必須）|
+|外部へのメール送信|許可（認証必須）|
 
 
 ### IMAPサーバ imap.aoirint.com
