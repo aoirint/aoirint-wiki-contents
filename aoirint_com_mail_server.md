@@ -2,7 +2,7 @@
 title: aoirint.com メールサーバについて
 description: 
 published: true
-date: 2022-12-08T22:14:01.093Z
+date: 2022-12-08T22:17:18.333Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T21:35:02.630Z
@@ -10,7 +10,7 @@ dateCreated: 2022-12-08T21:35:02.630Z
 
 # aoirint.com メールサーバ
 
-2022-12-09より、aoirint.comにて、メールサーバの運用を始めました。
+2022-12-09より、aoirint.comにて、個人用メールサーバの運用を始めました。
 
 aoirint.comアドレス宛てにメールが送信できない、受信できない、不正中継されている、セキュリティ上の問題などがあれば、Twitter、Mastodon、Keybaseなどにご連絡ください。
 
