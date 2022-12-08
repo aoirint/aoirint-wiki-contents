@@ -2,7 +2,7 @@
 title: aoirint.com メールサーバについて
 description: 
 published: true
-date: 2022-12-08T21:47:49.364Z
+date: 2022-12-08T21:48:12.255Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-08T21:35:02.630Z
