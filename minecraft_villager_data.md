@@ -2,7 +2,7 @@
 title: Minecraft Villager Data
 description: 
 published: true
-date: 2022-12-10T07:06:32.789Z
+date: 2022-12-10T07:07:27.975Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-10T06:28:10.040Z
@@ -74,3 +74,9 @@ dateCreated: 2022-12-10T06:28:10.040Z
 |4|snow|
 |5|swamp|
 |6|taiga|
+
+## Java Edition 1.19.3
+
+### Command references
+
+- <https://minecraft.fandom.com/wiki/Tutorials/Useful_commands#Villager_Trades>
