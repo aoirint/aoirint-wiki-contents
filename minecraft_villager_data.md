@@ -2,7 +2,7 @@
 title: Minecraft Villager Data
 description: 
 published: true
-date: 2022-12-10T06:51:07.893Z
+date: 2022-12-10T06:59:08.782Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-10T06:28:10.040Z
@@ -11,6 +11,7 @@ dateCreated: 2022-12-10T06:28:10.040Z
 ## Bedrock Edition 1.19.50 (2022-11-29)
 
 - <https://learn.microsoft.com/en-us/minecraft/creator/reference/source/vanillabehaviorpack_snippets/entities/villager_v2>
+- <https://wiki.bedrock.dev/documentation/queries.html>
 
 ### Variant
 
