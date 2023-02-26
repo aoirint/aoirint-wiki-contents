@@ -2,7 +2,7 @@
 title: AIアート
 description: 
 published: true
-date: 2023-02-26T08:00:39.419Z
+date: 2023-02-26T08:05:16.535Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T07:10:25.276Z
@@ -39,7 +39,7 @@ cloneofsimoによりText to Image Diffusion Modelに応用した実装が公開�
 
 ### derrian-distro/LoRA_Easy_Training_Scripts
 
-LoRAの訓練用スクリプト。
+[kohya-ssによるLoRAの訓練用スクリプト](https://github.com/kohya-ss/sd-scripts)のderrian-distroによるラッパー。
 
 - <https://github.com/derrian-distro/LoRA_Easy_Training_Scripts>
 - <https://github.com/aoirint/LoRA_Easy_Training_Scripts_docker>
