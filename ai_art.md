@@ -2,7 +2,7 @@
 title: AIアート
 description: 
 published: true
-date: 2023-02-26T08:06:41.772Z
+date: 2023-02-26T08:07:01.897Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T07:10:25.276Z
@@ -46,7 +46,7 @@ cloneofsimoによりText to Image Diffusion Modelに応用した実装が公開�
 
 ### SkyTNT/anime-segmentation
 
-アニメ絵のキャラクターと背景を領域分割する手法と学習済みモデル。
+アニメ絵のキャラクターと背景を領域分割するツール。
 
 - <https://github.com/SkyTNT/anime-segmentation>
 - <https://github.com/aoirint/anime-segmentation-docker>
