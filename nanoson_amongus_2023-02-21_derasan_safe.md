@@ -2,7 +2,7 @@
 title: なのそん Among Us 2023-02-21 でらさん金庫罪
 description: 
 published: true
-date: 2023-03-01T04:55:59.784Z
+date: 2023-03-01T06:38:35.561Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T04:51:31.083Z
@@ -36,6 +36,6 @@ dateCreated: 2023-03-01T04:51:31.083Z
 
 ## 支援絵
 
-|投稿主|リンク|
+|投稿者|リンク|
 |:--|:--|
 |奏音|[Twitter](https://twitter.com/lycorisradiata2/status/1628042021377302529)|
