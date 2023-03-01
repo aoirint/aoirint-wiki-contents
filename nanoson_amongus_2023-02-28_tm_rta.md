@@ -2,13 +2,13 @@
 title: 2023-02-28 なのそん Among Us 無犠牲TM勝利
 description: 
 published: true
-date: 2023-03-01T04:34:13.036Z
+date: 2023-03-01T04:38:57.012Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T04:33:56.840Z
 ---
 
-2023-02-28 なのそん Among Us、この日の最終試合。約2分半で終わった。
+なのそん Among Us 2023-02-28、この日の最終試合。約2分半で終わった。
 
 ### ルール
 
