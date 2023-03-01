@@ -2,15 +2,13 @@
 title: なのそん Among Us 2023-02-21 でらさん 金庫罪
 description: 
 published: true
-date: 2023-03-01T04:52:02.263Z
+date: 2023-03-01T04:54:54.604Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T04:51:31.083Z
 ---
 
-# なのそん Among Us 2023-02-21 でらさん 金庫罪
-
-### ルール
+## ルール
 
 |陣営|役職|割当数|
 |:--|:--|:--|
@@ -27,7 +25,7 @@ dateCreated: 2023-03-01T04:51:31.083Z
 |第三|クイーン|1|
 | |ワルガキ|1|
 
-### 生放送
+## 生放送
 
 |視点主|役職|タイムスタンプ|説明|
 |:--|:--|:--|:--|
@@ -35,3 +33,9 @@ dateCreated: 2023-03-01T04:51:31.083Z
 | | |[00:47:51](https://www.youtube.com/live/FIxVfmEIwio?t=2841) |初手ボタン会議|
 | | |[00:50:37](https://www.youtube.com/live/FIxVfmEIwio?t=3037)|シェリフキル|
 | | |[01:17:24](https://www.youtube.com/live/FIxVfmEIwio?t=4644)|試合終了|
+
+## 支援絵
+
+|投稿主|リンク|
+|:--|:--|
+|奏音|[Twitter](https://twitter.com/lycorisradiata2/status/1628042021377302529)|
