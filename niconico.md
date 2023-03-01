@@ -2,7 +2,7 @@
 title: ニコニコ動画
 description: 
 published: true
-date: 2023-03-01T04:55:38.394Z
+date: 2023-03-01T04:55:42.557Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T04:19:06.662Z
@@ -15,4 +15,4 @@ dateCreated: 2023-03-01T04:19:06.662Z
 ## なのそん
 
 - [なのそん Among Us 2023-02-28 無犠牲TM勝利](/nanoson_amongus_2023-02-28_tm_rta)
-- [なのそん Among Us 2023-02-21 でらさん 金庫罪](/nanoson_amongus_2023-02-21_derasan_safe)
+- [なのそん Among Us 2023-02-21 でらさん金庫罪](/nanoson_amongus_2023-02-21_derasan_safe)
