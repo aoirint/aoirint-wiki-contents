@@ -2,7 +2,7 @@
 title: なのそん Among Us 2023-02-28 無犠牲TM勝利
 description: 
 published: true
-date: 2023-03-01T04:39:49.923Z
+date: 2023-03-01T05:21:29.748Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T04:33:56.840Z
@@ -54,7 +54,11 @@ dateCreated: 2023-03-01T04:33:56.840Z
 | | |[03:20:23](https://www.youtube.com/live/a6QxvbQRa0U?t=12023)|TM噛み|
 | | |[03:20:41](https://www.youtube.com/live/a6QxvbQRa0U?t=12041)|死体通報|
 | | |[03:20:51](https://www.youtube.com/live/a6QxvbQRa0U?t=12051)|試合終了|
-|じょかあき|マッドメイト|||
+|じょかあき|マッドメイト|[02:51:42](https://www.youtube.com/live/uyJnkoDyjJs?t=10302)|試合開始|
+| | |[02:52:35](https://www.youtube.com/live/uyJnkoDyjJs?t=10378)|初手ボタン会議後|
+| | |[02:53:38](https://www.youtube.com/live/uyJnkoDyjJs?t=10418)|TM噛み|
+| | |[02:53:55](https://www.youtube.com/live/uyJnkoDyjJs?t=10435)|死体通報|
+| | |[02:54:06](https://www.youtube.com/live/uyJnkoDyjJs?t=10446)|試合終了|
 |朝ご飯|ジェスター|[02:51:19](https://www.youtube.com/live/5ehl-IcF8r8?t=10279)|試合開始|
 | | |[02:52:35](https://www.youtube.com/live/5ehl-IcF8r8?t=10355)|初手ボタン会議後|
 | | |[02:53:14](https://www.youtube.com/live/5ehl-IcF8r8?t=10394)|TM噛み|
