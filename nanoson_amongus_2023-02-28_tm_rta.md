@@ -2,7 +2,7 @@
 title: なのそん Among Us 2023-02-28 無犠牲TM勝利
 description: 
 published: true
-date: 2023-03-01T05:21:29.748Z
+date: 2023-03-01T06:36:53.470Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T04:33:56.840Z
@@ -71,3 +71,9 @@ dateCreated: 2023-03-01T04:33:56.840Z
 |投稿者|リンク|
 |:--|:--|
 |カタタタキ多々鷹|[【犠牲者皆無！】本当に親子で安心して見られる超健全宇宙人狼その66【なのそん参加編】](https://www.nicovideo.jp/watch/sm41865299)|
+
+### 支援絵
+
+|投稿者|リンク|
+|:--|:--|
+|ぱー|[Twitter](https://twitter.com/esakiganbaranai/status/1630775340208623616)|
