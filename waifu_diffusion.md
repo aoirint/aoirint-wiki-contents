@@ -2,7 +2,7 @@
 title: Waifu Diffusion
 description: 
 published: true
-date: 2023-04-15T05:57:49.642Z
+date: 2023-04-15T05:58:10.971Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T05:57:11.134Z
@@ -16,4 +16,5 @@ dateCreated: 2023-04-15T05:57:11.134Z
 
 ## 関連項目
 
+- [Stable Diffusion Models](/stable_diffusion_models)
 - [AIアート](/aiart)
