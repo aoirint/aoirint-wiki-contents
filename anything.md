@@ -2,7 +2,7 @@
 title: Anything
 description: 
 published: true
-date: 2023-04-15T05:48:09.451Z
+date: 2023-04-15T05:58:23.912Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T05:14:59.340Z
@@ -15,5 +15,6 @@ dateCreated: 2023-04-15T05:14:59.340Z
 
 ## 関連項目
 
-- [AIアート](/aiart)
+- [Stable Diffusion Models](/stable_diffusion_models)
 - [NovelAI Leak Model](/novelai_leak_model)
+- [AIアート](/aiart)
