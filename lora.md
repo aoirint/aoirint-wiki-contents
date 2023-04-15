@@ -2,7 +2,7 @@
 title: LoRA
 description: 
 published: true
-date: 2023-04-15T04:55:58.885Z
+date: 2023-04-15T05:24:04.133Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T04:55:34.377Z
@@ -18,3 +18,7 @@ LoRA（Low-Rank Adaptation）は、2021年にEdward Huらが提案した、大�
 cloneofsimoによりText to Image Diffusion Modelに応用した実装が公開された。
 
 - <https://github.com/cloneofsimo/lora>
+
+## 関連項目
+
+- [LoRA Easy Training Scripts](/lora_easy_training_scripts)
