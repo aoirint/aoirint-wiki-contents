@@ -2,7 +2,7 @@
 title: Waifu Diffusion + 東北ずん子公式イラスト
 description: 
 published: true
-date: 2023-04-15T06:43:56.549Z
+date: 2023-04-15T06:44:41.697Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T06:32:16.242Z
@@ -11,6 +11,8 @@ dateCreated: 2023-04-15T06:32:16.242Z
 ### tohoku_zunko-20230404.1
 
 - <https://mstdn.aoirint.com/@kanomiya_aiart/110139456128846221>
+
+#### Dataset
 
 ![5f5b655f73fafcee.png](/5f5b655f73fafcee.png)
 
