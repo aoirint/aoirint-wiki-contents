@@ -1,8 +1,8 @@
 ---
-title: Stable Diffusion Web UI
+title: Stable Diffusion WebUI
 description: 
 published: true
-date: 2023-04-15T05:11:43.929Z
+date: 2023-04-15T05:12:08.137Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T05:11:04.447Z
