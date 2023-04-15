@@ -2,7 +2,7 @@
 title: Stable Diffusion WebUI
 description: 
 published: true
-date: 2023-04-15T05:12:08.137Z
+date: 2023-04-15T05:23:28.103Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T05:11:04.447Z
@@ -13,3 +13,7 @@ dateCreated: 2023-04-15T05:11:04.447Z
 
 - <https://github.com/AUTOMATIC1111/stable-diffusion-webui>
 - <https://github.com/aoirint/stable-diffusion-webui-docker>
+
+## 関連項目
+
+- [AIアート](/aiart)
