@@ -2,13 +2,13 @@
 title: Waifu Diffusion
 description: 
 published: true
-date: 2023-04-15T05:58:10.971Z
+date: 2023-04-15T06:06:57.840Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T05:57:11.134Z
 ---
 
-[Stable Diffusion](/stable_diffusion)ベースのアニメ絵に特化した学習済みモデル。
+[Stable Diffusion](/stable_diffusion)ベースのアニメ絵に特化した学習済みモデル。[haru](https://twitter.com/haruu1367)氏らによって作成、公開されている。
 
 - Waifu Diffusion 1.3: <https://huggingface.co/hakurei/waifu-diffusion-v1-3>
 - Waifu Diffusion 1.4: <https://huggingface.co/hakurei/waifu-diffusion-v1-4>
