@@ -2,7 +2,7 @@
 title: NovelAI Leak Model
 description: 
 published: true
-date: 2023-04-15T06:02:34.301Z
+date: 2023-04-15T06:27:51.055Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T05:27:01.754Z
@@ -34,6 +34,7 @@ NovelAIは、2022年10月に独自のStable Diffusion派生モデルによる画
 - [Emulate NovelAI · AUTOMATIC1111/stable-diffusion-webui · Discussion #2017](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/2017)
 - [Anything v4.5 VAE swapped · AUTOMATIC1111/stable-diffusion-webui · Discussion #7044](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/7044)
 - [AIの著作権問題が複雑化 - 週刊アスキー](https://weekly.ascii.jp/elem/000/004/124/4124486/2/)
+- [高杉　光一🦋 @14:59さんはTwitterを使っています: 「画像生成AI界隈でよく使われるモデルの系列調査 いわゆる"アスカチャレンジ"です 元々はNovelAIとリークNAIの関係調査に使われたものです それを手持ちのすべてのSD1.4系メジャーモデルに当てはめたのがこちらとなります 画質はご容赦を #AIart #waifudiffusion #anythingv3 #ACertainThing https://t.co/6aP8g0q4pz」 / Twitter](https://twitter.com/kuronagirai/status/1612134485306535937)
 
 ## 関連項目
 
