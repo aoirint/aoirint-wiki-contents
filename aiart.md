@@ -2,20 +2,13 @@
 title: AIアート
 description: 
 published: true
-date: 2023-04-15T05:15:42.913Z
+date: 2023-04-15T05:17:07.514Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T07:10:25.276Z
 ---
 
 Stable Diffusion系の画像生成モデルの使い方に関するページ。
-
-### derrian-distro/LoRA_Easy_Training_Scripts
-
-[kohya-ssによるLoRAの訓練用スクリプト](https://github.com/kohya-ss/sd-scripts)のderrian-distroによるラッパー。
-
-- <https://github.com/derrian-distro/LoRA_Easy_Training_Scripts>
-- <https://github.com/aoirint/LoRA_Easy_Training_Scripts_docker>
 
 ### SkyTNT/anime-segmentation
 
