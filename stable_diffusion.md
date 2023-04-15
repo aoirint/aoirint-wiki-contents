@@ -2,7 +2,7 @@
 title: Stable Diffusion
 description: 
 published: true
-date: 2023-04-15T05:50:54.530Z
+date: 2023-04-15T05:51:17.102Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T05:34:38.560Z
@@ -25,7 +25,7 @@ Creative ML OpenRAIL-Mという独自のオープンソースライセンスの�
 
 Stable Diffusionは、学習済みモデルを含めてオープンソースであるため、ユーザのローカル環境や、Googleが提供するGPU環境であるColaboratory上、オープンソースコミュニティHugging Face上での推論実行が可能なほか、Fine tuningなどにより変更を加えたモデルを公開することができる。
 
-Stable Diffusion派生モデルには、アニメ風の絵・萌え絵に特化した[Waifu Diffusion](/waifu_diffusion)や、[NovelAI](/novelai)の画像生成サービスがある。
+Stable Diffusion派生モデルには、アニメ風の絵・萌え絵に特化した[Waifu Diffusion](/waifu_diffusion)や、[NovelAI](/novelai)の画像生成サービスなどがある。
 
 ## 関連項目
 
