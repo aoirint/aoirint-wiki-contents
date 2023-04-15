@@ -2,7 +2,7 @@
 title: LoRA Easy Training Scripts
 description: 
 published: true
-date: 2023-04-15T05:16:56.883Z
+date: 2023-04-15T05:17:29.943Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T05:16:39.877Z
@@ -16,3 +16,4 @@ dateCreated: 2023-04-15T05:16:39.877Z
 ## 関連項目
 
 - [AIアート](/aiart)
+- [LoRA](/lora)
