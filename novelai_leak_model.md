@@ -2,7 +2,7 @@
 title: NovelAI Leak Model
 description: 
 published: true
-date: 2023-04-15T05:45:10.820Z
+date: 2023-04-15T05:46:04.494Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T05:27:01.754Z
@@ -18,7 +18,7 @@ NovelAIは、2022年10月に独自のStable Diffusion派生モデルによる画
 - `animesfw-final-pruned`: sha256 `1d4a34af`
 - `animevae.pt`: sha256 `f921fb3f`
 
-Stable Diffusion派生の異なるモデルを合成する、モデルマージと呼ばれる手法など、
+現在では、Stable Diffusion派生の異なるモデルを合成する、モデルマージと呼ばれる手法など、
 様々な手法により生まれた「NAIリーク派生モデル」とみられるモデルが流通してしまっている。
 
 ### NAIリーク派生モデルとみられるモデルの例
