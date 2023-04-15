@@ -2,7 +2,7 @@
 title: Waifu Diffusion + 東北ずん子公式イラスト
 description: 
 published: true
-date: 2023-04-15T06:47:49.065Z
+date: 2023-04-15T06:48:34.004Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T06:32:16.242Z
@@ -14,11 +14,11 @@ dateCreated: 2023-04-15T06:32:16.242Z
 
 #### Dataset
 
-![5f5b655f73fafcee.png](/5f5b655f73fafcee.png =300x)
+[![5f5b655f73fafcee.png](/5f5b655f73fafcee.png =300x)](/5f5b655f73fafcee.png)
 
 #### Example
 
-![02112-4052543271.png](/02112-4052543271.png =300x)
+[![02112-4052543271.png](/02112-4052543271.png =300x)](/02112-4052543271.png)
 
 ```
 <lora:tohoku_zunko-20230404.1-epoch-000010:1:OUTD>, (tohoku zunko girl:1),
