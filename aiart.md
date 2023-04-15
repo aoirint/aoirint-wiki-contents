@@ -2,21 +2,13 @@
 title: AIアート
 description: 
 published: true
-date: 2023-04-15T04:59:27.129Z
+date: 2023-04-15T05:12:28.455Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T07:10:25.276Z
 ---
 
 Stable Diffusion系の画像生成モデルの使い方に関するページ。
-
-### AUTOMATIC1111/stable-diffusion-webui
-
-推論時に使う基本となるWeb UI。専用の拡張機能を導入できる。
-拡張機能の中には、推論機能の拡張のほか、訓練データの準備に使えるものもある。
-
-- <https://github.com/AUTOMATIC1111/stable-diffusion-webui>
-- <https://github.com/aoirint/stable-diffusion-webui-docker>
 
 ### Anything V4
 
@@ -40,4 +32,5 @@ Stable Diffusionベースのアニメ絵に特化した学習済みモデル。
 
 ## 関連項目
 
+- [Stable Diffusion WebUI](/stable_diffusion_webui)
 - [LoRA](/lora)
