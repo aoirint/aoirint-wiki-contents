@@ -2,7 +2,7 @@
 title: LoRA Easy Training Scripts
 description: 
 published: true
-date: 2023-04-15T05:16:39.877Z
+date: 2023-04-15T05:16:56.883Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T05:16:39.877Z
@@ -12,3 +12,7 @@ dateCreated: 2023-04-15T05:16:39.877Z
 
 - <https://github.com/derrian-distro/LoRA_Easy_Training_Scripts>
 - <https://github.com/aoirint/LoRA_Easy_Training_Scripts_docker>
+
+## 関連項目
+
+- [AIアート](/aiart)
