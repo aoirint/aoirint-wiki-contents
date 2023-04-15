@@ -2,7 +2,7 @@
 title: Waifu Diffusion + 東北ずん子公式イラスト
 description: 
 published: true
-date: 2023-04-15T06:52:49.903Z
+date: 2023-04-15T06:53:16.142Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T06:32:16.242Z
@@ -29,7 +29,7 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 4052543271, Size: 512x5
 
 #### モデル
 
-- [tohoku_zunko_official-20230404.1.7z](https://nc.aoirint.com/s/ic8rpf43kiqHjXP)
+- [tohoku_zunko_official-20230404.1.7z](https://nc.aoirint.com/s/ic8rpf43kiqHjXP) (190.4 MB)
 
 #### データセット
 
