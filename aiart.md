@@ -2,19 +2,13 @@
 title: AIアート
 description: 
 published: true
-date: 2023-04-15T05:12:28.455Z
+date: 2023-04-15T05:15:42.913Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T07:10:25.276Z
 ---
 
 Stable Diffusion系の画像生成モデルの使い方に関するページ。
-
-### Anything V4
-
-Stable Diffusionベースのアニメ絵に特化した学習済みモデル。
-
-- <https://huggingface.co/andite/anything-v4.0>
 
 ### derrian-distro/LoRA_Easy_Training_Scripts
 
@@ -33,4 +27,5 @@ Stable Diffusionベースのアニメ絵に特化した学習済みモデル。
 ## 関連項目
 
 - [Stable Diffusion WebUI](/stable_diffusion_webui)
+- [Anything](/anything)
 - [LoRA](/lora)
