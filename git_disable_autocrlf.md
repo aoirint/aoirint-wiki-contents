@@ -2,7 +2,7 @@
 title: Gitの改行コード自動置換機能を無効化する
 description: 
 published: true
-date: 2023-04-16T06:58:39.196Z
+date: 2023-04-16T06:59:03.639Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-16T06:58:39.196Z
@@ -25,8 +25,17 @@ RUN <<EOF
 EOF
 ```
 
+以下のようなエラーとなり、ビルドに失敗します。
+
 ```
-#0 0.604 /bin/sh: 1: set: Illegal option -
+------
+ > [2/2] RUN <<EOF (set -eux...):
+#8 0.294 /bin/sh: 1: set: Illegal option -
+------
+executor failed running [/bin/sh -c     set -eux
+
+    echo "OK"
+]: exit code: 2
 ```
 
 
