@@ -2,12 +2,22 @@
 title: Gitの改行コード自動置換機能を無効化する
 description: 
 published: true
-date: 2023-04-16T07:05:08.895Z
+date: 2023-04-16T07:06:07.878Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-16T06:58:39.196Z
 ---
 
+## Gitのautocrlfを黙らせる
+
+https://stackoverflow.com/questions/21822650/disable-git-eol-conversions
+
+```
+git config --global core.autocrlf false
+git add --renormalize .
+```
+
+すでにautocrlfが適用されたファイルを元に戻すために、`add --renormalize`が必要です。
 
 ## GitのCRLF自動置換機能のためにDocker Buildに失敗する例
 
