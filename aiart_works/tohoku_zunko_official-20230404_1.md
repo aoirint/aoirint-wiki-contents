@@ -2,7 +2,7 @@
 title: tohoku_zunko_official-20230404.1
 description: Waifu Diffusion + 東北ずん子公式イラスト
 published: true
-date: 2023-04-15T06:59:32.464Z
+date: 2023-04-16T03:27:45.881Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T06:32:16.242Z
@@ -51,3 +51,7 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3758536961, Face restor
 ## 関連リンク
 
 - <https://mstdn.aoirint.com/@kanomiya_aiart/110139456128846221>
+
+## 関連項目
+
+- [AIアート 制作物](/aiart/work)
