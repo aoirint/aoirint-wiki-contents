@@ -1,8 +1,8 @@
 ---
-title: nicolive_comment_tts
+title: ニコ生コメント読み上げ
 description: 
 published: true
-date: 2023-04-16T03:54:33.980Z
+date: 2023-04-16T03:54:41.036Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-07T07:08:10.664Z
