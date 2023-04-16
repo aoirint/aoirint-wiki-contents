@@ -2,7 +2,7 @@
 title: tohoku_zunko_official-20230404.1
 description: Waifu Diffusion + 東北ずん子公式イラスト
 published: true
-date: 2023-04-16T03:27:45.881Z
+date: 2023-04-16T03:37:24.287Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T06:32:16.242Z
