@@ -1,8 +1,8 @@
 ---
-title: サーバー
+title: 個人サーバ
 description: 
 published: true
-date: 2022-02-06T02:02:25.591Z
+date: 2023-04-16T04:06:33.640Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T01:16:16.412Z
