@@ -1,21 +1,23 @@
 ---
-title: CDの取り込み
+title: cd_ripping
 description: 
 published: true
-date: 2022-03-29T18:02:51.889Z
+date: 2023-04-16T03:55:13.305Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-29T18:00:34.807Z
 ---
 
-# Ubuntu
+# CDの取り込み
+
+## Ubuntu
 
 Rhythmboxで取り込む。
 ogg形式に変更する。
 
 EasyTagを使ってID3タグ、アルバムアートを設定する。
 
-# Windows
+## Windows
 
 Windows Media Playerで取り込む。
 初期設定が低ビットレートのMP3になっているので、320kbpsのMP3に変更する。
