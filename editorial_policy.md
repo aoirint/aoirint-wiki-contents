@@ -2,11 +2,14 @@
 title: 編集方針
 description: 
 published: true
-date: 2023-04-16T03:42:50.708Z
+date: 2023-04-16T03:44:11.872Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-16T03:42:50.708Z
 ---
 
-# Header
-Your content here
+## フラットな構造を作る
+
+階層構造のページを作らない。階層構造は、関連する項目をまとめたページ（カテゴリページ）で表現する。
+
+1つのページの変更（移動）が他のたくさんのページに波及することをできるだけ防ぐため。
