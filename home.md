@@ -2,7 +2,7 @@
 title: ホーム
 description: 
 published: true
-date: 2023-04-16T04:08:12.867Z
+date: 2023-04-16T05:10:52.804Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-05T21:58:01.939Z
@@ -17,4 +17,5 @@ dateCreated: 2022-02-05T21:58:01.939Z
 - [ニコニコ動画](/niconico)
 - [aoirint.com メールサーバの設定](/aoirint_com_mail_server)
 - [個人サーバ](/personal_servers)
+- [個人サービスデプロイ](/personal_deploys)
 - [編集方針](/editorial_policy)
