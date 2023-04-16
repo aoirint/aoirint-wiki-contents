@@ -2,7 +2,7 @@
 title: Gitの改行コード自動置換機能を無効化する
 description: 
 published: true
-date: 2023-04-16T07:08:48.576Z
+date: 2023-04-16T07:09:21.047Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-16T06:58:39.196Z
@@ -17,7 +17,7 @@ git config --global core.autocrlf false
 git add --renormalize .
 ```
 
-すでにautocrlfが適用されたファイルを元に戻すために、`add --renormalize`が必要です。
+すでにautocrlfが適用されたファイルを元に戻すために、既存のローカルリポジトリでは`add --renormalize`が必要です。
 
 ## GitのCRLF自動置換機能のためにDocker Buildに失敗する例
 
