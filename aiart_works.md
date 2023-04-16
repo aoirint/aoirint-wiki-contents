@@ -2,7 +2,7 @@
 title: AIアート 制作物
 description: 
 published: true
-date: 2023-04-16T03:31:43.732Z
+date: 2023-04-16T03:31:50.746Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T06:31:49.583Z
@@ -10,7 +10,7 @@ dateCreated: 2023-04-15T06:31:49.583Z
 
 ## Waifu Diffusion + 東北ずん子公式イラスト
 
-- [tohoku_zunko_official-20230404_1](/aiart_works/tohoku_zunko_official-20230404_1)
+- [tohoku_zunko_official-20230404_1](/tohoku_zunko_official-20230404_1)
 
 ## 関連項目
 
