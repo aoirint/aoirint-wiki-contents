@@ -2,7 +2,7 @@
 title: Gitの改行コード自動置換機能を無効化する
 description: 
 published: true
-date: 2023-04-16T06:59:27.519Z
+date: 2023-04-16T07:00:08.126Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-16T06:58:39.196Z
@@ -39,3 +39,6 @@ executor failed running [/bin/sh -c     set -eux
 ```
 
 GitのCRLF自動置換機能によって、Dockerfileの改行コードがCRLFに書き換えられることでも同じことが起きます。
+
+`.gitattributes`でリポジトリごとに改行コードのポリシーを変更することができますが、
+
