@@ -2,7 +2,7 @@
 title: ホーム
 description: 
 published: true
-date: 2023-04-16T03:49:21.374Z
+date: 2023-04-16T04:07:29.528Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-05T21:58:01.939Z
@@ -16,5 +16,5 @@ dateCreated: 2022-02-05T21:58:01.939Z
 - [AIアート](/aiart)
 - [ニコニコ動画](/niconico)
 - [サービス](/services)
-- [パーソナル](/personal)
+- [個人サーバ](/personal_servers)
 - [編集方針](/editorial_policy)
