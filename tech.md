@@ -2,7 +2,7 @@
 title: 技術ノート
 description: 
 published: true
-date: 2023-04-17T00:48:24.759Z
+date: 2023-04-17T00:55:06.152Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T00:54:27.003Z
@@ -10,7 +10,6 @@ dateCreated: 2022-02-06T00:54:27.003Z
 
 ## OS
 
-- [Windowsの設定](/windows_config)
 - [Windows 11 評価版](/windows11_evaluation)
 
 ## データベース
