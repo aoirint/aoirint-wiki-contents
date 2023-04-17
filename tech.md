@@ -2,7 +2,7 @@
 title: 技術ノート
 description: 
 published: true
-date: 2023-04-17T00:45:04.735Z
+date: 2023-04-17T00:48:04.505Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-06T00:54:27.003Z
@@ -12,10 +12,6 @@ dateCreated: 2022-02-06T00:54:27.003Z
 
 - [Windowsの設定](/windows_config)
 - [Windows 11 評価版](/windows11_evaluation)
-
-## プログラミング
-
-- [Gitの改行コード自動置換機能を無効化する](/git_disable_autocrlf)
 
 ## データベース
 
