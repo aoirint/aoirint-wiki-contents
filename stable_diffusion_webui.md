@@ -2,7 +2,7 @@
 title: Stable Diffusion WebUI
 description: 
 published: true
-date: 2023-04-19T04:53:34.564Z
+date: 2023-04-19T04:53:51.892Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-15T05:11:04.447Z
@@ -17,15 +17,15 @@ dateCreated: 2023-04-15T05:11:04.447Z
 
 ## 拡張機能
 
-### stable-diffusion-webui-wd14-tagger
-
-- <https://github.com/toriato/stable-diffusion-webui-wd14-tagger>
-  - Current Commit Hash: `3ba3a735`
-
 ### Generate-TransparentIMG
 
 - <https://github.com/hunyaramoke/Generate-TransparentIMG>
   - Current Commit Hash: `6059579e`
+
+### stable-diffusion-webui-wd14-tagger
+
+- <https://github.com/toriato/stable-diffusion-webui-wd14-tagger>
+  - Current Commit Hash: `3ba3a735`
 
 ### sd-webui-lora-block-weight
 
