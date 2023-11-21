@@ -2,11 +2,16 @@
 title: Among Us 鬼ごっこ対抗戦！ ふにんがす vs なのそん 2023-11-21
 description: 
 published: true
-date: 2023-11-21T05:22:02.943Z
+date: 2023-11-21T05:25:09.726Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-21T05:19:13.300Z
 ---
+
+## 概要
+
+- [ふにんがすウィーク](/ふにんがすウィーク) 2日目の企画
+- 主催: なりす
 
 ## 告知
 
