@@ -2,7 +2,7 @@
 title: Among Us 鬼ごっこ対抗戦！ ふにんがす vs なのそん 2023-11-21
 description: 
 published: true
-date: 2023-11-21T06:05:09.842Z
+date: 2023-11-21T06:05:56.105Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-21T05:19:13.300Z
@@ -25,9 +25,9 @@ dateCreated: 2023-11-21T05:19:13.300Z
 | |X|niconico|YouTube Live|ニコニコ生放送|
 |:--|:--|:--|:--|:--|
 |Mr.kk|[@yukarinochi](https://twitter.com/yukarinochi)|[user/618249](https://www.nicovideo.jp/user/618249)| | |
-|カタタタキ多々鷹|[]()|[]()| | |
+|カタタタキ多々鷹|[@neznekanakat](https://twitter.com/neznekanakat)|[user/63438200](https://www.nicovideo.jp/user/63438200)| | |
 |如月ラギ|[@Ragi05](https://twitter.com/Ragi05)|[user/814203](https://www.nicovideo.jp/user/814203)| | |
-|けむり|[]()|[]()| | |
+|けむり|[@kemuri11861595](https://twitter.com/kemuri11861595)|[user/96161400](https://www.nicovideo.jp/user/96161400)| | |
 |シルシラ|[@sirusira](https://twitter.com/sirusira)|[user/220860](https://www.nicovideo.jp/user/220860)| | |
 |じょかあき|[@jokaaki](https://twitter.com/jokaaki)|[user/390917](https://www.nicovideo.jp/user/390917)| | |
 |ちくわか|[@tkwk_3](https://twitter.com/tkwk_3)|[user/2580842](https://www.nicovideo.jp/user/2580842)| | |
