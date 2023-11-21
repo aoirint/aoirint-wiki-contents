@@ -2,7 +2,7 @@
 title: ふにんがすウィーク Among Us 鬼ごっこ対抗戦！ ふにんがす vs なのそん 2023-11-21
 description: 
 published: true
-date: 2023-11-21T06:07:19.622Z
+date: 2023-11-21T06:08:04.384Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-21T05:19:13.300Z
@@ -52,3 +52,7 @@ dateCreated: 2023-11-21T05:19:13.300Z
 |二兎きょう|[@iaiaia28](https://twitter.com/iaiaia28)|[user/8110697](https://www.nicovideo.jp/user/8110697)| | |
 |ルナハート|[@lunaheart00](https://twitter.com/lunaheart00)|[user/2045914](https://www.nicovideo.jp/user/2045914)| | |
 |ロムニキ|[@Rom_voirom](https://twitter.com/Rom_voirom)|[user/68271672](https://www.nicovideo.jp/user/68271672)| | |
+
+## 関連項目
+
+- [ふにんがすウィーク](/ふにんがすウィーク)
